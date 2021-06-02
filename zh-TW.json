@@ -182,9 +182,9 @@
 		"account": {
 			"name": "帳戶",
 			"label-welcome": "歡迎您，{{name}}!",
-			"label-your-account-email": "您的帳戶信箱是 ",
+			"label-your-account-email": "您的帳號信箱是 ",
 			"label-insider": "內測人士",
-			"label-supporter": "支持用戶",
+			"label-supporter": "贊助者",
 			"label-vip": "VIP",
 			"label-role-text": "您是一位 {{- role}}!",
 			"label-insider-build-access": "感謝您的支持。您可以訪問我們的內測版本。",
@@ -204,7 +204,7 @@
 			"message-invalid-email": "無效的電子信箱。",
 			"message-empty-password": "密碼不能為空。",
 			"message-login-failed": "登入失敗，請檢查您的電子信箱與密碼。",
-			"label-no-account": "沒有帳戶？ ",
+			"label-no-account": "沒有帳號？ ",
 			"link-sign-up-now": "現在註冊",
 			"message-get-community-badges": "若在24小時後未取得註冊後的社群身分時，請寄信至 support@obsidian.md。",
 			"message-obtain-commercial-license": "欲取得商用授權請瀏覽 {{pricingPageLink}}。"
